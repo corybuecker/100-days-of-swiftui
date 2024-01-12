@@ -1,0 +1,12 @@
+name: 100DaysOfSwiftUi
+options:
+  bundleIdPrefix: com.corybuecker
+settings:
+  INFOPLIST_FILE: Info.plist
+targets:
+  100DaysOfSwiftUi:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.4"
+    sources:
+      - Sources
