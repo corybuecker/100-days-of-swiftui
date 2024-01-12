@@ -1,0 +1,13 @@
+name: 100DaysOfSwiftUi
+options:
+  bundleIdPrefix: com.corybuecker
+targets:
+  100DaysOfSwiftUi:
+    type: application
+    platform: iOS
+    sources:
+      - Sources
+    info:
+      path: Sources/Info.plist
+      properties:
+        CFBundleName: 100 Days
